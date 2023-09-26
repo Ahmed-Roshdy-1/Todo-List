@@ -1,5 +1,8 @@
 # Todo-List
 
+### to do list app for listing the tasks in order , I use firebase to store the task and it status (done || not done) ,
+### after it's done you can delete and it's sync with the database.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
